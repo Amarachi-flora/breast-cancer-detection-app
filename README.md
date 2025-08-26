@@ -57,16 +57,7 @@ The model is trained on the well-known [Wisconsin Breast Cancer Dataset](https:/
 `concave points_worst`, `concave points_mean`, `radius_worst`, `area_worst`, `perimeter_worst`, `compactness_mean`, `texture_worst`, `smoothness_worst`, `concavity_worst`, `symmetry_worst`.  
 
 ---
-
-##  Deployment (Streamlit App)  
-
- Implemented in [`app.py`](app.py)  
-
-<p align="center">  
-  <img src="app_screenshot.png" width="700" alt="Streamlit App Screenshot">  
-</p>  
-
-**Features:**  
+ **Features:**  
 -  User-friendly tumor feature input  
 -  Real-time prediction (Benign/Malignant)  
 -  Confidence score display  

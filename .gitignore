@@ -15,12 +15,11 @@ venv/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Data files (optional — if you don’t want to upload large raw datasets)
+# Data files 
 *.csv
 *.xlsx
 
-# Model files (optional — if they are too large; you may keep them if needed)
-*.pkl
+# Model files
 *.h5
 
 # Logs
