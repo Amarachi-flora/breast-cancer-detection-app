@@ -64,7 +64,7 @@ The model is trained on the well-known [Wisconsin Breast Cancer Dataset](https:/
 -  Visualization of input features  
 -  Sidebar with FAQ and disclaimer  
 
-👉 **Live Demo:** [Click here to try the app](https://breast-cancer-predictor-7.streamlit.app/)  
+👉 **Live Demo:** [Click here to try the app](https://breast-cancer-detection-app-id.streamlit.app/)  
 
 ---
 
