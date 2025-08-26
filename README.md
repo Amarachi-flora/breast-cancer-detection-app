@@ -23,7 +23,7 @@ The model is trained on the well-known [Wisconsin Breast Cancer Dataset](https:/
 
 ---
 
-## ⚙️ How It Works  
+##  How It Works  
 
 1. **Input Tumor Measurements**  
    - Enter 10 most important diagnostic features (or use sample input).  
@@ -95,59 +95,50 @@ breast-cancer-predictor/
 
 #  Run Locally
 
-# 1. Clone repository
-git clone https://github.com/Amarachi-flora/breast-cancer-predictor.git
+ 1. Clone repository
+git clone https://github.com/Amarachi-flora/breast-cancer-detection-app.git
 cd breast-cancer-predictor
 
-# 2. Install dependencies
+ 2. Install dependencies
 pip install -r requirements.txt
 
-# 3. Train model (optional)
+ 3. Train model (optional)
 python train_model.py
 
-# 4. Launch app
+ 4. Launch app
 streamlit run app.py
 
+ Technical Report
 
-# Technical Report
+ See full details in Technical_Report.pdf
 
-# See full details in Technical_Report.pdf
+ 1. Problem statement & objectives
 
-# 1. Problem statement & objectives
+ 2. Model training & evaluation results
 
-# 2. Model training & evaluation results
+ 3. Visualizations (heatmaps, confusion matrix, feature importances etc.)
 
-# 3. Visualizations (heatmaps, confusion matrix, feature importances etc.)
-
-# 4. Insights, recommendations, limitations, future work and conclusions.
-
-
-# Technologies Used
-
-# 1. Python (Pandas, NumPy, Seaborn, Matplotlib)
-
-# 2. Scikit-learn (ML Models + GridSearchCV)
-
-# 3. Streamlit (Web Deployment)
-
-# 4. Plotly (Interactive Visuals)
+ 4. Insights, recommendations, limitations, future work and conclusions.
 
 
+ Technologies Used
 
-##  Author  
+ 1. Python (Pandas, NumPy, Seaborn, Matplotlib)
 
-**Amarachi Florence Onyedinma-Nwamaghiro**  
-🔗(https://www.linkedin.com/in/amarachi-florence/)  
+ 2. Scikit-learn (ML Models + GridSearchCV)
 
+ 3. Streamlit (Web Deployment)
 
-# Contribution
+ 4. Plotly (Interactive Visuals)
+
+ Contribution
 
 ⭐ Star this repo to show support
 🍴 Fork it and try improvements
 🛠️ Submit issues or pull requests
 
 
-#  License
+  License
 
 This project is licensed under the MIT License.
 © 2025 Amarachi Florence Onyedinma-Nwamaghiro, free to use with attribution.
