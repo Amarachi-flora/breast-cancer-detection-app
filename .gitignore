@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (optional — if you don’t want to upload large raw datasets)
+*.csv
+*.xlsx
+
+# Model files (optional — if they are too large; you may keep them if needed)
+*.pkl
+*.h5
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
